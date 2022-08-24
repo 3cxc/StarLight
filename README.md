@@ -1,4 +1,5 @@
-# VSS
+Vanilla Security System Plugin
+--------
 
 Minecraft Vanilla Security System Anti cheating Plugin 
 
