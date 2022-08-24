@@ -1,7 +1,7 @@
 Vanilla Security System Plugin
 --------
 
-[English](https://github.com/3cxc/VSS/blob/master/README.md) | **中文**
+**English** | [中文](https://github.com/3cxc/VSS/blob/master/README_cn.md)
 
 > This is a Minecraft Vanilla Security System Anti cheating Plugin 
 
