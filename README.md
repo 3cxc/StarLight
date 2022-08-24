@@ -9,8 +9,8 @@ Vanilla Security System Plugin
 
 Currently the following cheating can be detected:
 
-Speed
-Fly
+- Speed
+- Fly
 
 ## Future planning
 
@@ -19,6 +19,8 @@ More cheating detection will be added in the future
 ## Version
 
 The plug-in can run version: 1.13~1.17.1
+
+Compatible server: Bukkit / Spigot / Paper 
 
 However, the plugin has only been tested in version 1.17.1, and other versions have not been tested
 
