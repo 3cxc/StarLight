@@ -4,8 +4,7 @@ Minecraft Vanilla Security System Anti cheating Plugin
 
 #Introduction
 
-[中文](https://github.com/3cxc/VSS/blob/master/README_cn.md) |
-[English](https://github.com/3cxc/VSS/blob/master/README.md)
+[English](https://github.com/3cxc/VSS/blob/master/README.md) | **中文**
 
 #Type of cheating detection
 
