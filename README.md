@@ -5,7 +5,7 @@ Vanilla Security System Plugin
 
 > This is a Minecraft Vanilla Security System Anti cheating Plugin 
 > 
-> Warning: This Anti cheating is not recommended because it is easier to be bypassed or misjudged than other anti cheating methods
+> Warning: This Anti cheating plugin is not recommended because it is easier to be bypassed or misjudged than other anti cheating plugins
 
 ## Type of cheating detection
 
