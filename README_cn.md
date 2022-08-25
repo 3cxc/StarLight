@@ -4,6 +4,8 @@ Vanilla Security System插件
 [English](https://github.com/3cxc/VSS/blob/master/README.md) | **中文**
 
 > 这是Vanilla Security System 反作弊插件
+> 
+> 警告：并不推荐使用该反作弊, 相比于其他的反作弊插件，这个反作弊是更容易被绕过或误判的
 
 ## 能检测的作弊类型
 
