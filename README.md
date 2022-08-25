@@ -4,6 +4,7 @@ Vanilla Security System Plugin
 **English** | [中文](https://github.com/3cxc/VSS/blob/master/README_cn.md)
 
 > This is a Minecraft Vanilla Security System Anti cheating Plugin 
+> 
 > Warning: This Anti cheating is not recommended because it is easier to be bypassed or misjudged than other anti cheating methods
 
 ## Type of cheating detection
