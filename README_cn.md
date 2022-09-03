@@ -1,5 +1,7 @@
 Vanilla Security System插件
 --------
+[![Latest Release](https://img.shields.io/github/v/release/3cxc/VSS)](https://github.com/3cxc/VSS)
+[![License](https://img.shields.io/github/license/3cxc/VSS.svg)](https://github.com/3cxc/VSS/blob/master/LICENSE)
 
 [English](https://github.com/3cxc/VSS/blob/master/README.md) | **中文**
 
