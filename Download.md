@@ -1,5 +1,5 @@
 ## Download
-> :warning: 注意：使用插件之前，请先阅读其更新说明
+> :warning: Note: please read the update instructions before using the plugin
 
 | File | Version | Upload Time | Size | Operation
 | --- | --- | --- | --- | --- |
