@@ -33,6 +33,6 @@ Vanilla Security System插件
 目前该插件仅支持英文和中文
 
 ## 下载
-| 名称 | VSS_Core |
-| --- | --- |
-| 最新版本 | [![Latest Release](https://img.shields.io/github/v/release/3cxc/VSS)](https://github.com/3cxc/VSS/)
+| 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作
+| --- | --- | --- | --- | --- | --- |
+| VSS-3.5.0.jar | 3.5.0 | 2022/9/3 | 57KB |  | [下载]()
