@@ -5,7 +5,7 @@ Vanilla Security System Plugin
 
 > This is a Minecraft Vanilla Security System Anti cheating Plugin 
 > 
-> Warning: it is not recommended to use this anti cheating plug-in, because it is still in the alpha test stage, and must be matched with other anti cheating plug-ins to reduce bypassing (because this anti cheating does not have timer detection)
+> Warning: it is not recommended to use this anti cheating plugin, because it is still in the Alpha test stage, and must be matched with other anti cheating plugins to reduce bypassing (because this anti cheating does not have Timer detection)
 
 ## Type of cheating detection
 
