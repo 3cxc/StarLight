@@ -1,6 +1,7 @@
 Vanilla Security System Plugin
 --------
 [![License](https://img.shields.io/github/license/3cxc/VSS.svg)](https://github.com/3cxc/VSS/blob/master/LICENSE)
+
 **English** | [中文](https://github.com/3cxc/VSS/blob/master/README_cn.md)
 
 > This is a Minecraft Vanilla Security System Anti cheating Plugin 
