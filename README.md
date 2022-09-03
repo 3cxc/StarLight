@@ -23,9 +23,9 @@ The plug-in can run version: 1.13~1.17.1
 
 Compatible server: Bukkit / Spigot / Paper 
 
-Front end plugin: ViaVersion
+Front end plugin: ViaVersion(Not required)
 
-However, the plugin has only been tested in version 1.17.1, and other versions have not been tested
+Note that this plugin has only been tested in version 1.17.1, and has not been tested in other versions, so the compatibility is unknown
 
 ## language
 
