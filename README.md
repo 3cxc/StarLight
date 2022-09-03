@@ -9,7 +9,7 @@ Vanilla Security System Plugin
 > 
 > Warning: it is not recommended to use this anti cheating plugin, because it is still in the Alpha test stage, and must be matched with other anti cheating plugins to reduce bypassing (because this anti cheating does not have Timer detection)
 > 
-> [Plugin download address](https://github.com/3cxc/VSS/blob/master/Download_cn.md)
+> [Plugin download address](https://github.com/3cxc/VSS/blob/master/Download.md)
 
 ## Type of cheating detection
 
