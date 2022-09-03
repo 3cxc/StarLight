@@ -1,7 +1,6 @@
 Vanilla Security System Plugin
 --------
 [![Latest Release](https://img.shields.io/github/v/release/3cxc/VSS)](https://github.com/3cxc/VSS)
-![Build Status](https://github.com/ViaVersion/ViaVersion/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/3cxc/VSS/actions)
 [![License](https://img.shields.io/github/license/3cxc/VSS.svg)](https://github.com/3cxc/VSS/blob/master/LICENSE)
 
 **English** | [中文](https://github.com/3cxc/VSS/blob/master/README_cn.md)
