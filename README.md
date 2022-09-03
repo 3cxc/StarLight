@@ -5,14 +5,13 @@ Vanilla Security System Plugin
 
 > This is a Minecraft Vanilla Security System Anti cheating Plugin 
 > 
-> Warning: This Anti cheating plugin is not recommended because it is easier to be bypassed or misjudged than other anti cheating plugins
+> Warning: it is not recommended to use this anti cheating plug-in, because it is still in the alpha test stage, and must be matched with other anti cheating plug-ins to reduce bypassing (because this anti cheating does not have timer detection)
 
 ## Type of cheating detection
 
 Currently the following cheating can be detected:
 
-- Speed
-- Fly
+- Speed(3.1+)
 
 ## Future planning
 
@@ -24,7 +23,7 @@ The plug-in can run version: 1.13~1.17.1
 
 Compatible server: Bukkit / Spigot / Paper 
 
-Front end plugin: Protocollib
+Front end plugin: ViaVersion
 
 However, the plugin has only been tested in version 1.17.1, and other versions have not been tested
 
