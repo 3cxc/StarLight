@@ -1,0 +1,20 @@
+#Language file version, please do not modify
+version: 'EN_4'
+
+SystemMessage:
+  load-message: 'Plugin is loading...'
+  enable-message: 'Plugin startup completed!'
+  disable-message: 'The plugin has been uninstalled!'
+  log-message: 'Log has been written to file!'
+  reload-message: 'Plugin reload completed!'
+  update-nonew-message: 'The plugin is the latest version!'
+  update-new-message: '§bFound a new version: {0} please go to the author GitHub to get the latest version!'
+Warning:
+  update-error-message: 'check for update failed!'
+  no-permission: 'You have no permission to do this!'
+Chect:
+  chect-UB-message: 'You are banned for cheating!'
+  chect-UK-message: 'You have been kicked out for cheating!'
+  chect-UR-message: 'reason: '
+  chect-id-message: 'event number: '
+  chect-war-message: 'Warning! Illegal players found'

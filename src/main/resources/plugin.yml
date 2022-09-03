@@ -1,0 +1,27 @@
+name: VSS
+version: '${project.version}'
+main: com.github.vss.VSS
+api-version: 1.17
+prefix: VSS
+description: A new lightweight anti cheating Plugin
+website: https://github.com/3cxc/VSS
+commands:
+  vss:
+    description: Plugin main command
+    aliases: [VSS]
+    permission: Welfare.admin
+    permission-message: "§cYou no permission!"
+
+permissions:
+  vss.admin:
+    description: Plugin Admin permission
+    default: op
+    children:
+      vss.admin.reload: true
+      vss.admin.update: true
+  vss.admin.reload:
+    default: op
+    description: reload Plugin permission
+  vss.admin.update:
+    default: op
+    description: Check for updates permission

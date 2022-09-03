@@ -1,0 +1,20 @@
+#语言文件版本,请勿修改
+version: 'CN_4'
+
+SystemMessage:
+  load-message: '插件正在加载中...'
+  enable-message: '插件启动完成！'
+  disable-message: '插件已卸载！'
+  log-message: '日志已写入文件！'
+  reload-message: '插件重载完成！'
+  update-nonew-message: '插件已经是最新版本了！'
+  update-new-message: '§b发现了新版本：{0} 请前往作者的Github获取最新版本！'
+Warning:
+  update-error-message: '检查更新失败！'
+  no-permission: '您没有权限这样做！'
+Chect:
+  chect-UB-message: '您因为作弊而被封禁'
+  chect-UK-message: '您因为作弊而被踢出'
+  chect-UR-message: '原因: '
+  chect-id-message: '事件编号：'
+  chect-war-message: '警告！发现违规玩家'
