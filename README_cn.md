@@ -15,7 +15,7 @@ Vanilla Security System插件
 
 目前能检测到以下的作弊:
 
-- Speed
+- Speed(3.1+)
 
 ## 关于未来的计划
 
