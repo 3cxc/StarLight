@@ -35,4 +35,4 @@ Vanilla Security System插件
 ## 下载
 | 名称 | VSS_Core |
 | --- | --- |
-| 最新版本 | [![Download](https://img.shields.io/github/v/release/3cxc/VSS)]()[![Download]
+| 最新版本 | [![Download](https://img.shields.io/github/v/release/3cxc/VSS)](https://github.com/3cxc/VSS)[![Download]
