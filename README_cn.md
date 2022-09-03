@@ -8,6 +8,7 @@ Vanilla Security System插件
 > 这是Vanilla Security System 反作弊插件
 > 
 > 警告：不推荐使用此反作弊插件，因为它仍处于Alpha测试阶段，并且必须要搭配其他反作弊插件才能减少绕过（因为这个反作弊没有Timer检测）
+> [插件下载地址](https://github.com/3cxc/VSS/blob/master/Download_cn.md)
 
 ## 能检测的作弊类型
 
@@ -31,10 +32,3 @@ Vanilla Security System插件
 ## 语言支持
 
 目前该插件仅支持英文和中文
-
-## 下载
-> :warning: 注意：使用插件之前，请先阅读其更新说明
-
-| 文件 | 版本 | 上传时间 | 大小 | 操作
-| --- | --- | --- | --- | --- |
-| [VSS-3.5.0.jar](https://github.com/3cxc/VSS/releases/download/3.5.0/VSS-3.5.0.jar) | 3.5.0 | 2022/9/3 | 57KB | [下载](https://github.com/3cxc/VSS/releases/tag/3.5.0) |
