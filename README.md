@@ -25,7 +25,7 @@ More cheating detection will be added in the future
 
 ## Version
 
-The plug-in can run version: 1.13~1.17.1
+The plugin can run version: 1.13~1.17.1
 
 Compatible server: Bukkit / Spigot / Paper 
 
