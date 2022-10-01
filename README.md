@@ -9,6 +9,8 @@ Vanilla Security System Plugin
 > 
 > Warning: it is not recommended to use this anti cheating plugin, because it is still in the Alpha test stage, and must be matched with other anti cheating plugins to reduce bypassing (because this anti cheating does not have Timer detection)
 > 
+> This plugin is best used on survival type servers (because it is specially developed for survival servers)
+> 
 > [Plugin download address](https://github.com/3cxc/VSS/blob/master/Download.md)
 
 ## Type of cheating detection
@@ -27,10 +29,8 @@ The plug-in can run version: 1.13~1.17.1
 
 Compatible server: Bukkit / Spigot / Paper 
 
-Front end plugin: ViaVersion(Not required)
-
 Note that this plugin has only been tested in version 1.17.1, and has not been tested in other versions, so the compatibility is unknown
 
 ## language
 
-Currently the Vanilla Security System Plugin only supports Chinese and English
+Only English and Chinese are supported, and there will be no plans to support more languages in the future
