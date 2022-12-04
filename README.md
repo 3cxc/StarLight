@@ -3,7 +3,7 @@ StarLight Anti cheating
 [![Latest Release](https://img.shields.io/github/v/release/3cxc/StarLight)](https://github.com/3cxc/StarLight)
 [![License](https://img.shields.io/github/license/3cxc/StarLight.svg)](https://github.com/3cxc/StarLight/blob/master/LICENSE)
 
-**English** | [中文](https://github.com/3cxc/StarLight/blob/master/README_cn.md)
+**English** | [中文](https://github.com/3cxc/StarLight/blob/master/.github/workflows/README_cn.md)
 
 > This is a StarLight Anti cheating
 > 
@@ -13,7 +13,7 @@ StarLight Anti cheating
 > 
 > Warning: This plugin is specially developed for PTMU server, so it can only run in version 1.18.2+!
 > 
-> [Plugin download address](https://github.com/3cxc/StarLight/blob/master/Download.md)
+> [Plugin download address](https://github.com/3cxc/StarLight/blob/master/.github/workflows/Download.md)
 
 ## Type of cheating detection
 
