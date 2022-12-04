@@ -3,7 +3,7 @@
 [![Latest Release](https://img.shields.io/github/v/release/3cxc/StarLight)](https://github.com/3cxc/StarLight)
 [![License](https://img.shields.io/github/license/3cxc/StarLight.svg)](https://github.com/3cxc/StarLight/blob/master/LICENSE)
 
-[English](https://github.com/3cxc/StarLight/blob/master/README.md) | **中文**
+[English](https://github.com/3cxc/StarLight/blob/master/.github/workflows/README.md) | **中文**
 
 > 这是 星光 反作弊插件
 > 
@@ -13,7 +13,7 @@
 > 
 > 警告：由于该插件是专门为PTMU服务器开发的，因此仅能在1.18.2+版本运行！
 > 
-> [插件下载地址](https://github.com/3cxc/StarLight/blob/master/Download_cn.md)
+> [插件下载地址](https://github.com/3cxc/StarLight/blob/master/.github/workflows/Download_cn.md)
 
 ## 能检测的作弊类型
 
