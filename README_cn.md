@@ -1,9 +1,9 @@
 星光反作弊
 --------
-[![Latest Release](https://img.shields.io/github/v/release/3cxc/SarLight)](https://github.com/3cxc/SarLight)
-[![License](https://img.shields.io/github/license/3cxc/SarLight.svg)](https://github.com/3cxc/SarLight/blob/master/LICENSE)
+[![Latest Release](https://img.shields.io/github/v/release/3cxc/StarLight)](https://github.com/3cxc/StarLight)
+[![License](https://img.shields.io/github/license/3cxc/StarLight.svg)](https://github.com/3cxc/StarLight/blob/master/LICENSE)
 
-[English](https://github.com/3cxc/SarLight/blob/master/README.md) | **中文**
+[English](https://github.com/3cxc/StarLight/blob/master/README.md) | **中文**
 
 > 这是 星光 反作弊插件
 > 
