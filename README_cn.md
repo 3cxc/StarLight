@@ -13,7 +13,7 @@
 > 
 > 警告：由于该插件是专门为PTMU服务器开发的，因此仅能在1.18.2+版本运行！
 > 
-> [插件下载地址](https://github.com/3cxc/SarLight/blob/master/Download_cn.md)
+> [插件下载地址](https://github.com/3cxc/StarLight/blob/master/Download_cn.md)
 
 ## 能检测的作弊类型
 
