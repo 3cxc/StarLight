@@ -13,6 +13,8 @@ StarLight Anti cheating
 > 
 > Warning: This plugin is specially developed for PTMU server, so it can only run in version 1.18.2+!
 > 
+> Note: Since 3.7.0 (LTS), the code for key parts of anti cheating will no longer be open source, and the released version will be confused
+> 
 > [Plugin download address](https://github.com/3cxc/StarLight/blob/master/.github/workflows/Download.md)
 
 ## Type of cheating detection
