@@ -10,9 +10,6 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class Check{
     /**
      * 注册监听器事件
-     * @see SpeedCheck
-     * @see SecurityAlert
-     * @see FlyCheck
      * @version 2.0
      * @author 3cxc
      * @since 3.6.0
