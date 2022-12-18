@@ -1,7 +1,6 @@
 package com.github.starlight.chect;
 
 import com.github.starlight.StarLightAPI;
-//import com.github.vss.chect.type.FlyCheck;
 import com.github.starlight.chect.type.FlyCheck;
 import com.github.starlight.chect.type.SecurityAlert;
 import com.github.starlight.chect.type.SpeedCheck;
