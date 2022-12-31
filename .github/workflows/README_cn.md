@@ -13,7 +13,7 @@
 > 
 > 警告：由于该插件是专门为PTMU服务器开发的，因此仅能在1.18.2+版本运行！
 > 
-> 注意：自3.7.0(LTS)开始，将不再开源反作弊关键部分代码，且会对发行的版本进行混淆
+> 注意：自3.7.0版本开始,会对发行版本进行混淆
 > 
 > [插件下载地址](https://github.com/3cxc/StarLight/blob/master/.github/workflows/Download_cn.md)
 
